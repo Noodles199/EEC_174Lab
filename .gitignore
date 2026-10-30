@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+.venv-gpu/
+.Trash-0/
+__pycache__/
+.ipynb_checkpoints/
+Lab3/mnist_data/
+Lab3/StanfordCars-Dataset*/
+*.pth
